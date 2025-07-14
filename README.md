@@ -47,3 +47,7 @@ It prints the readings to the Serial Monitor for monitoring motion and lighting 
 
 
 # Showcase
+
+
+https://github.com/user-attachments/assets/947ab0b4-ec79-40ea-85c4-8c89a3e1e750
+
