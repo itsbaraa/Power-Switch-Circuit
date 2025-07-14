@@ -8,13 +8,11 @@ This Arduino project is a power control circuit that uses:
 # How It Works
 
 1. **Startup**: LED is OFF, circuit is disabled.
-2. **Button Press**: Toggles circuit state.
-3. **Circuit ON**: LDR checks ambient light and turns LED ON in the dark.
-4. **Circuit OFF**: LED is always OFF regardless of light.
-> **Note:**  
-> Press the button to toggle the circuit:  
-> - 2 LED blinks = Circuit turned **ON**  
-> - 1 LED blink = Circuit turned **OFF**
+2. **Button Press**: Toggles circuit state:
+   - 2 LED blinks = Circuit turned **ON**  
+   - 1 LED blink = Circuit turned **OFF**
+4. **Circuit ON**: LDR checks ambient light and turns LED ON in the dark.
+5. **Circuit OFF**: LED is always OFF regardless of light.
 
 # Circuit Diagram
 <img width="684" height="755" alt="image" src="https://github.com/user-attachments/assets/7cc22669-575f-49eb-a336-70bc9cc301a9" />
