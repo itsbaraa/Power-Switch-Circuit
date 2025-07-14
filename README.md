@@ -1,4 +1,4 @@
-# Power-Switch-Circuit
+# Power Switch Circuit
 This Arduino project is a power control circuit that uses:
 
 - A **push button** to toggle the circuit ON/OFF
@@ -22,3 +22,28 @@ This Arduino project is a power control circuit that uses:
 # Showcase
 
 https://github.com/user-attachments/assets/b5518b43-1e2b-4939-8949-3b103994dfa5
+
+---
+
+# Motion + Light Monitor Circuit
+
+This Arduino project reads values from:
+
+- A **motion sensor (PIR)** to detect movement
+- An **LDR (Light Dependent Resistor)** to measure ambient light level
+
+It prints the readings to the Serial Monitor for monitoring motion and lighting conditions in real time.
+
+# How It Works
+
+1. **Startup**: Serial monitor begins printing values.
+2. **Motion Sensor**: Detects movement and prints either `Motion: YES` or `Motion: NO`.
+3. **LDR Sensor**: Continuously reads light levels and prints a value between 0 (dark) and 1023 (bright).
+> **Note:**  
+> This circuit is useful for motion-activated lighting, smart surveillance, or light-aware automation.
+
+# Circuit Diagram
+<img width="848" height="784" alt="image" src="https://github.com/user-attachments/assets/ad8caba0-ab73-46cc-a7a2-e8e3a523e6d0" />
+
+
+# Showcase
