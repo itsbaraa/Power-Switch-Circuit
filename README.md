@@ -31,8 +31,6 @@ This Arduino project is a proximity-based lighting circuit that uses:
 - An LDR (Light Dependent Resistor)** to determine ambient light brightness from an analog pin.
 - An LED that only turns on when it is bright and an object is close to the sensor.
 
----
-
 ## How It Works
 
 - **Startup:** Serial Monitor begins outputting distance in cm and LDR brightness values.
