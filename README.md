@@ -27,9 +27,9 @@ https://github.com/user-attachments/assets/b5518b43-1e2b-4939-8949-3b103994dfa5
 
 This Arduino project is a proximity-based lighting circuit that uses:
 
-- An **ultrasonic sensor (HC-SR04)** to detect how close an object is  
-- An **LDR (Light Dependent Resistor)** to determine ambient light brightness  
-- An **LED** that only turns on when it is **bright** **and** an object is **close to the sensor**
+- An ultrasonic sensor to detect how close an object is.
+- An LDR (Light Dependent Resistor)** to determine ambient light brightness.
+- An LED that only turns on when it is bright and an object is close to the sensor.
 
 ---
 
