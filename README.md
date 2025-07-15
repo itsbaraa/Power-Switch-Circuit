@@ -41,11 +41,11 @@ It prints the readings to the Serial Monitor for monitoring motion and lighting 
 > This circuit is useful for motion-activated lighting, smart surveillance, or light-aware automation.
 
 # Circuit Diagram
-<img width="848" height="784" alt="image" src="https://github.com/user-attachments/assets/ad8caba0-ab73-46cc-a7a2-e8e3a523e6d0" />
+<img width="1215" height="1174" alt="image" src="https://github.com/user-attachments/assets/9333665a-25f9-42b6-aefb-b4d137b9ac03" />
+
 
 
 # Showcase
 
 
-https://github.com/user-attachments/assets/947ab0b4-ec79-40ea-85c4-8c89a3e1e750
 
