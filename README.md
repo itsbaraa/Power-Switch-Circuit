@@ -46,5 +46,4 @@ This Arduino project is a proximity-based lighting circuit that uses:
 
 # Showcase
 
-
-
+https://github.com/user-attachments/assets/6e1c2d22-ecc8-4a7a-a823-7f8289378d6f
