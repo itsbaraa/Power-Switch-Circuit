@@ -39,6 +39,7 @@ This Arduino project is a proximity-based lighting circuit that uses:
 
 # Circuit Diagram
 <img width="1215" height="1174" alt="image" src="https://github.com/user-attachments/assets/9333665a-25f9-42b6-aefb-b4d137b9ac03" />
+
 # Showcase
 
 https://github.com/user-attachments/assets/6e1c2d22-ecc8-4a7a-a823-7f8289378d6f
